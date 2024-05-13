@@ -31,6 +31,11 @@ Escolha uma das opções abaixo que melhor descreve sua participação na feira:
   
 Além disso, o formulário inclui uma checkbox para aceitar todos os termos e condições do evento. 
 
+## :mag_right:Como Usar
+Explore a navegação e visualização do site por meio do seguinte link: <br>
+
+[https://danielcooder.github.io/Github-Favoritos/github-favoritos/](https://danielcooder.github.io/github-favoritos/)
+
 
 ## :hammer_and_pick:Tecnologias Utilizadas:
 
