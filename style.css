@@ -6,7 +6,7 @@ body {
 body::before {
     content: '';
     width: 100%;
-    height: 235px;
+    height: 250px;
     position: absolute;
     top: 0;
     left: 0;
@@ -18,7 +18,7 @@ body::before {
 
 header {
     width: 319px;
-    margin-top: -228px;
+    margin-top: 70px;
     margin-right: 320px;
 }
 
@@ -88,7 +88,7 @@ legend {
 
 legend:hover {
     background-color: #91e7ff;
-    /* Cor de fundo ao passar o mouse */
+
 }
 
 .bot img {
@@ -101,10 +101,11 @@ legend:hover {
 
 
 .bandeira img {
-    margin-left: 1007px;
+    position: block;
+    margin-left: 710px;
     width: 180px;
     height: 150px;
-    margin-top: 78px;
+    margin-top: -175px;
 
 }
 
@@ -116,9 +117,7 @@ legend:hover {
     width: 100%;
     height: 100%;
     z-index: -5;
-    /* Define a imagem como a camada mais baixa */
     object-fit: cover;
-    /* Para cobrir toda a área */
 }
 
 
@@ -126,9 +125,7 @@ legend:hover {
 
     display: flex;
     flex-direction: column;
-    /* Empilha os elementos verticalmente */
     gap: 10px;
-    /* Espaçamento entre os elementos */
 }
 
 
