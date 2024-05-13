@@ -31,6 +31,13 @@ Escolha uma das opções abaixo que melhor descreve sua participação na feira:
   
 Além disso, o formulário inclui uma checkbox para aceitar todos os termos e condições do evento. 
 
+
+## :hammer_and_pick:Tecnologias Utilizadas:
+
+- HTML5
+- CSS
+
+
 # Participação na Feira
 
 Após preencher e enviar o formulário, sua inscrição será processada e você receberá um e-mail de confirmação com detalhes sobre sua participação na feira, incluindo informações sobre horários, programação e outras instruções importantes.
