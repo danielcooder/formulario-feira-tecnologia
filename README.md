@@ -13,7 +13,7 @@ Ao preencher este formulário, solicitamos as seguintes informações:
 - Telefone: Número de telefone para comunicação.
 - CPF: Documento de identificação pessoal.
 
-Categoria de Visita: Escolha uma das opções abaixo que melhor descreve sua participação na feira:
+# Categoria de Visita: Escolha uma das opções abaixo que melhor descreve sua participação na feira:
 - VISITANTE
 - EXPOSITOR
 - ENGENHEIRO
