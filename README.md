@@ -13,6 +13,11 @@ Ao preencher este formulário, solicitamos as seguintes informações:
 - Telefone: Número de telefone para comunicação.
 - CPF: Documento de identificação pessoal.
 
+  Veja conforme imagem abaixo:
+
+  ![Site GitHub Favoritos](
+/img/img-feira-apr.jpg)
+
 # Categoria de Visita:
 
 Escolha uma das opções abaixo que melhor descreve sua participação na feira:
@@ -24,12 +29,7 @@ Escolha uma das opções abaixo que melhor descreve sua participação na feira:
 - ALUNO
 - CRIADOR DE CONTEÚDO DIGITAIS
   
-Além disso, o formulário inclui uma checkbox para aceitar todos os termos e condições do evento. Veja abaixo:
-
-
-![Site GitHub Favoritos](
-/img/img-feira-apr.jpg)
-
+Além disso, o formulário inclui uma checkbox para aceitar todos os termos e condições do evento. 
 
 # Participação na Feira
 
