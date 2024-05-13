@@ -3,7 +3,7 @@
   
 Bem-vindo ao formulário de inscrição para a nossa Feira Tecnológica! Este formulário tem como objetivo facilitar o processo de participação no evento, onde teremos exposições de tecnologia e palestras abordando diversos temas do universo tecnológico.
 
-# Informações Necessárias
+# :pencil2: Informações Necessárias
 
 Ao preencher este formulário, solicitamos as seguintes informações:
 
