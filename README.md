@@ -24,7 +24,11 @@ Escolha uma das opções abaixo que melhor descreve sua participação na feira:
 - ALUNO
 - CRIADOR DE CONTEÚDO DIGITAIS
   
-Além disso, o formulário inclui uma checkbox para aceitar todos os termos e condições do evento.
+Além disso, o formulário inclui uma checkbox para aceitar todos os termos e condições do evento. Veja abaixo:
+
+
+![Site GitHub Favoritos](
+/img/img-feira-apr.jpg)
 
 
 # Participação na Feira
