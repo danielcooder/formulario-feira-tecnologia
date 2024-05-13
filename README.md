@@ -37,10 +37,11 @@ Além disso, o formulário inclui uma checkbox para aceitar todos os termos e co
 - HTML5
 - CSS
 
+## :pushpin:Contribuições
+  
+Sinta-se à vontade para colaborar com aprimoramentos, correções de bugs ou adição de novos recursos a este projeto. Basta realizar um fork do repositório, criar sua própria branch e enviar um pull request. Valorizamos e agradecemos a sua contribuição!
 
-# Participação na Feira
+<h2>✒️ Autor </h2>
+<strong>Daniel de Oliveira</strong>
 
-Após preencher e enviar o formulário, sua inscrição será processada e você receberá um e-mail de confirmação com detalhes sobre sua participação na feira, incluindo informações sobre horários, programação e outras instruções importantes.
-
-Agradecemos o seu interesse em participar da nossa Feira Tecnológica e estamos ansiosos para vê-lo no evento!
 
