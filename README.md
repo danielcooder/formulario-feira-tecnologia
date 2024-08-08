@@ -34,7 +34,7 @@ Além disso, o formulário inclui uma checkbox para aceitar todos os termos e co
 ## :mag_right:Como Usar
 Explore a navegação e visualização do site por meio do seguinte link: <br>
 
-[https://danielcooder.github.io/formulario-feira-technologia/](https://danielcooder.github.io/formulario-feira-technologia/)
+[https://danielcooder.github.io/formulario-feira-technologia/](https://danielcooder.github.io/formulario-feira-tecnologia/)
 
 
 ## :hammer_and_pick:Tecnologias Utilizadas:
